@@ -1,0 +1,7 @@
+.DS_Store
+data/train_ids.txt
+data/train_raw_ids.txt
+data/*.tfrecords
+lib/__pycache__/
+model/*
+rl_model/*
