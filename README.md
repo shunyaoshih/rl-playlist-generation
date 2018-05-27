@@ -1,5 +1,7 @@
 # rl-playlist-generation
 
+Implementation of "Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning" - ISMIR 2018
+
 ## Dependencies
 
 * python3
