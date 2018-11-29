@@ -1,6 +1,6 @@
 # rl-playlist-generation
 
-Original implementation of "Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning" - ISMIR 2018
+Original implementation of ["Automatic, Personalized, and Flexible Playlist Generation using Reinforcement Learning"](http://ismir2018.ircam.fr/doc/pdfs/18_Paper.pdf).
 
 ## Dependencies
 
